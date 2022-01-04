@@ -75,9 +75,9 @@ if __name__ == '__main__':
     # password = cparser['AUTH']['PASSWORD']
 
     
-    ig_bot = InstagramBot('jessiepopo21', 'Rengar1234') 
+    ig_bot = InstagramBot('username', 'password') 
     #ig_bot.nav_user('garyvee')
-    ig_bot.seguir_user('cleitonnnnnn')
+    ig_bot.seguir_user('maaurotony')
   
 
 
